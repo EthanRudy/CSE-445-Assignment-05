@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\",
+  "WorkspaceRootPath": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\cse-445-assignment-05\\webapplication\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\projects\\school\\cse-445-assignment-05\\webapplication\\member.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\member.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\cse-445-assignment-05\\webapplication\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\projects\\school\\cse-445-assignment-05\\webapplication\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\cse-445-assignment-05\\webapplication\\controls\\captcha.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\projects\\school\\cse-445-assignment-05\\webapplication\\controls\\captcha.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controls\\captcha.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|c:\\users\\16eru\\documents\\cse-445-assignment-05\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A1473BE1-3DAE-455D-AE13-F8D4B9DDA133}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{5C14DC78-D4C2-4D4D-8BB7-313244527ABE}|LocalComponentsDLL\\SecurityService.csproj|c:\\users\\16eru\\documents\\projects\\school\\cse-445-assignment-05\\localcomponentsdll\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C14DC78-D4C2-4D4D-8BB7-313244527ABE}|LocalComponentsDLL\\SecurityService.csproj|solutionrelative:localcomponentsdll\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 427,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Staff.aspx",
-              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Staff.aspx",
-              "RelativeDocumentMoniker": "WebApplication\\Staff.aspx",
-              "ToolTip": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Staff.aspx",
-              "RelativeToolTip": "WebApplication\\Staff.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-01T21:23:20.468Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Captcha.ascx",
-              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Controls\\Captcha.ascx",
+              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Controls\\Captcha.ascx",
               "RelativeDocumentMoniker": "WebApplication\\Controls\\Captcha.ascx",
-              "ToolTip": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Controls\\Captcha.ascx",
+              "ToolTip": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Controls\\Captcha.ascx",
               "RelativeToolTip": "WebApplication\\Controls\\Captcha.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-12-01T21:20:06.254Z",
+              "WhenOpened": "2025-12-02T01:38:52.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Member.aspx",
-              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Member.aspx",
+              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Member.aspx",
               "RelativeDocumentMoniker": "WebApplication\\Member.aspx",
-              "ToolTip": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Member.aspx",
+              "ToolTip": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Member.aspx",
               "RelativeToolTip": "WebApplication\\Member.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-01T21:10:57.664Z",
+              "WhenOpened": "2025-12-02T01:38:22.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Default.aspx",
-              "RelativeDocumentMoniker": "WebApplication\\Default.aspx",
-              "ToolTip": "C:\\Users\\16eru\\Documents\\CSE-445-Assignment-05\\WebApplication\\Default.aspx",
-              "RelativeToolTip": "WebApplication\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-01T20:22:01.459Z",
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\LocalComponentsDLL\\SecurityService.cs",
+              "RelativeDocumentMoniker": "LocalComponentsDLL\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\LocalComponentsDLL\\SecurityService.cs",
+              "RelativeToolTip": "LocalComponentsDLL\\SecurityService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:32:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Member.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Member.aspx.cs",
+              "ToolTip": "C:\\Users\\16eru\\Documents\\Projects\\School\\CSE-445-Assignment-05\\WebApplication\\Member.aspx.cs",
+              "RelativeToolTip": "WebApplication\\Member.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:27:46.15Z",
               "EditorCaption": ""
             }
           ]

@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Member.aspx.cs" Inherits="WebApplication.Member" %>
 <%@ Register Src="~/Controls/Captcha.ascx" TagPrefix="uc" TagName="Captcha" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Assignment 5 - Member Page</title>
+    <title>Assignment 6 - Member Page</title>
     <style>
         .section {
             border: 1px solid #999;
@@ -44,7 +44,7 @@
                     <!-- Password -->
                     <tr>
                         <td><asp:Label ID="lblPassword" runat="server" Text="Password: "></asp:Label></td>
-                        <td><asp:TextBox ID="txtPassword" runat="server"></asp:TextBox></td>
+                        <td><asp:TextBox ID="txtPassword" runat="server" TextMode="Password"></asp:TextBox></td>
                     </tr>
 
                     <!-- Captcha -->
@@ -55,7 +55,7 @@
 
                     <!-- Button -->
                     <tr>
-                        <td><asp:Button ID="btnSignIn" runat="server" Text="Sign In"/></td>
+                        <td><asp:Button ID="btnSignIn" runat="server" Text="Sign In" OnClick="btnSignIn_Click"/></td>
                     </tr>
                 </table>
             </div>

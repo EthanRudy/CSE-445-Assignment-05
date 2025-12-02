@@ -101,13 +101,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\UtilityServiceRef\UtilityService.disco" />
-    <None Include="Connected Services\UtilityServiceRef\configuration91.svcinfo" />
-    <None Include="Connected Services\UtilityServiceRef\configuration.svcinfo" />
-    <None Include="Connected Services\UtilityServiceRef\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -158,13 +151,6 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
-    <None Include="Connected Services\UtilityServiceRef\UtilityService.wsdl" />
-    <Content Include="Connected Services\UtilityServiceRef\WebApplication.UtilityServiceRef.CountCharactersResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Connected Services\UtilityServiceRef\WebApplication.UtilityServiceRef.ReverseStringResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -202,11 +188,6 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Connected Services\UtilityServiceRef\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
     <Compile Include="Controls\Captcha.ascx.cs">
       <DependentUpon>Captcha.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -280,7 +261,10 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\UtilityServiceRef\" />
+    <ProjectReference Include="..\LocalComponentsDLL\SecurityService.csproj">
+      <Project>{5c14dc78-d4c2-4d4d-8bb7-313244527abe}</Project>
+      <Name>SecurityService</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
